@@ -12,8 +12,7 @@ def zipdir(dirPath, zipFilePath=None, includeDirInZip=True):
 	if not zipFilePath:
 		zipFilePath = dirPath + ".zip"
 	if not os.path.isdir(dirPath):
-		raise OSError("dirPath argument must point to a directory. "
-					"'%s' does not." % dirPath)
+		raise OSError("dirPath argument must point to a directory. ""'%s' does not." % dirPath)
 	parentDir, dirToZip = os.path.split(dirPath)
 
 	# Little nested function to prepare the proper archive path
