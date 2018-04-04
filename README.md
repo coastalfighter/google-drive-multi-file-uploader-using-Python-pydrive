@@ -28,6 +28,6 @@
 =>Provide the folder path that has to be zipped and uploaded.
 
 # Note:
-=>This project is done under the guidance of Zaid Sir and Digipodium
+=>This project is done under the guidance of Zaid Sir and Digipodium(www.digipodium.com)
 
 => Made by Gaurang Shukla(grngshukla@gmail.com)
